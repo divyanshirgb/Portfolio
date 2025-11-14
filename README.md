@@ -1,7 +1,7 @@
 
-  # Dark-Themed Portfolio Website
+  # Portfolio Website
 
-  This is a code bundle for Dark-Themed Portfolio Website. The original project is available at https://www.figma.com/design/xnVplQH2ZDvykYehnd2c2J/Dark-Themed-Portfolio-Website.
+  This is a code bundle for Dark-Themed Portfolio Website is available at https://www.figma.com/design/xnVplQH2ZDvykYehnd2c2J/Dark-Themed-Portfolio-Website.
 
   ## Running the code
 
